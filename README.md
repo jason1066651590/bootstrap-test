@@ -1,1 +1,2 @@
-# bootstrap-test
+# bootstrap简单练习
+使用bootstrap的css样式和组件写一个页面
